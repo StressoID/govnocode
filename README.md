@@ -38,3 +38,7 @@ https://prettier.io
 https://sentry.io
 
 https://trackjs.com
+
+
+# git flow
+https://habr.com/post/106912/
