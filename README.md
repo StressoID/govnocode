@@ -33,6 +33,8 @@ https://github.com/SonarSource/SonarJS
 # formatters
 https://prettier.io
 
+https://prettier.io/docs/en/precommit.html
+
 
 # error track
 https://sentry.io
